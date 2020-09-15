@@ -3,6 +3,7 @@
   "description": "Excercise on UiPath Academy to Generate Yearly Report",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.9.2-preview]",
     "UiPath.System.Activities": "[20.10.0-preview]",
     "UiPath.UIAutomation.Activities": "[20.10.0-preview]"
