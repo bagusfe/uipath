@@ -1,10 +1,11 @@
 {
-  "name": "Generate_Yearly_Report_Dispatcher",
-  "description": "Excercise on UiPath Academy to Generate Yearly Report",
+  "name": "Generate_Yearly_Report_Performer",
+  "description": "Generate Yearly Report Performerr for Vendor (Excercise UiPath Academy)",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.9.2-preview]",
+    "UiPath.Mail.Activities": "[1.9.3-beta.1146571]",
     "UiPath.System.Activities": "[20.10.0-preview]",
     "UiPath.UIAutomation.Activities": "[20.10.0-preview]"
   },
